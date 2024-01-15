@@ -1,0 +1,28 @@
+{
+    "url": "https://api.atmotube.com/api/v1/data",
+    "api_key": "your api_key",
+    "atmotube_mac_addresses": [
+        "F8:B1:69:70:E5:3D",
+        "CA:ED:7F:60:6B:80",
+        "D9:6D:D0:CD:28:57",
+        "F8:B1:69:70:E5:3D",
+        "CD:21:4B:9D:B7:D4",
+        "EE:D4:1D:B6:84:B6",
+        "ED:39:52:44:BB:94",
+        "E1:AD:9F:86:4C:B6",
+        "E6:9A:62:B1:EC:48",
+        "E6:89:23:46:CC:29",
+        "EF:35:3D:93:F0:F1",
+        "C1:4A:DB:4C:90:5B",
+        "FB:89:93:C3:FA:5B",
+        "C3:4C:B0:DF:FB:C3",
+        "E2:F7:B2:B3:79:9F",
+        "CF:26:39:FC:D0:E4",
+        "DB:25:73:D4:BC:F1",
+        "E0:95:9E:A0:27:6B",
+        "FF:50:C4:3E:C2:0E",
+        "EA:0A:28:B6:75:E0",
+        "E8:1E:0E:78:E6:B7"
+    ]
+  }
+  
